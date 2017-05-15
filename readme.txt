@@ -3,3 +3,4 @@ git is free software distributed under the GPL
 git is pig but you are no 
 git is no no no no 
 quick git submit text 
+Creating a new branch is quick & simple
